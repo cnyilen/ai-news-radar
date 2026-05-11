@@ -1,6 +1,6 @@
 name: Update AI News Snapshot
 
-on:
+"on":
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
